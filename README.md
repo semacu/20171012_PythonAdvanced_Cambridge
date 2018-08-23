@@ -20,3 +20,8 @@ This is a one-day continuation course of the [Introduction to Solving Biological
 <p align="center">
   <img src=pics/python.png width="300">
 </p>
+
+
+### References
+
+- [Python 102 for scientific computing and data analysis](https://python-102.readthedocs.io/en/latest/index.html)
